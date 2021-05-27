@@ -1,6 +1,6 @@
 ### Welcome to my github, my name is Kyle :)
 
-## I code ezpz
+## I enjoy coding and solving problems.
 
 
 
